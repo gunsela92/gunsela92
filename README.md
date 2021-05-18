@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gunsellakkemik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="gunsellakkemik" height="30" width="40" /></a>
+<a href="https://twitter.com/gunsellakkemik" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-128.png" alt="gunsellakkemik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/günsel akkemik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="günsel akkemik" height="30" width="40" /></a>
 <a href="https://instagram.com/gunselakkemik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="gunselakkemik" height="30" width="40" /></a>
 </p>
