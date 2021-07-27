@@ -1,5 +1,5 @@
-<h1 align="center">Hi :wave:, I'm Günsel Akkemik</h1>
-<h3 align="center">A software developer.</h3>
+### Hi there 👋, I'm Günsel Akkemik
+#### A software developer.
 ![A software developer.](https://media-exp1.licdn.com/dms/image/C4D16AQEfhYVHgYjRJw/profile-displaybackgroundimage-shrink_200_800/0/1623180419814?e=1632960000&v=beta&t=JnCXAiTaXY1X_ysgYUbsjRGOa1w8jkezuKThYoHZsjA)
 
 Graduated from Beykent University, Visual Communication department.
