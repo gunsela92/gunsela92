@@ -4,24 +4,6 @@
 
 Graduated from Beykent University, Visual Communication department.
 
-Skilled in :
-* React JS,
-* Jquery,
-* C#,
-* Lua,
-* JS,
-* Html and CSS.
-
-* Mysql
-* Mariadb
-* NodeJS
-
-*Basic knowledge PHP and Vue JS.
-
-- Using Adobe products (Illustrator,Photoshop,Indesign,After effects,Premiere Pro) at mastery level
-
-- Experienced on Logo design, Corporate identity design, visual design and UI/UX.
-
 Skills: React Js / JS / Html / Cascading Style Sheets (CSS) / CSS Pre-Processors: SASS, LESS / JQUERY / C# / LUA / NodeJS / Mysql / Mariadb / AWS
 
 - 🔭 I’m currently working on https://www.mecellem.com 
