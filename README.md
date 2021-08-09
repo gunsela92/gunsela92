@@ -2,8 +2,6 @@
 #### A software developer.
 ![A software developer.](https://media-exp1.licdn.com/dms/image/C4D16AQEfhYVHgYjRJw/profile-displaybackgroundimage-shrink_200_800/0/1623180419814?e=1632960000&v=beta&t=JnCXAiTaXY1X_ysgYUbsjRGOa1w8jkezuKThYoHZsjA)
 
-Graduated from Beykent University, Visual Communication department.
-
 Skills: React Js / JS / Html / Cascading Style Sheets (CSS) / CSS Pre-Processors: SASS, LESS / JQUERY / C# / LUA / NodeJS / Mysql / Mariadb / AWS
 
 - 🔭 I’m currently working on https://www.mecellem.com 
