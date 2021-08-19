@@ -4,7 +4,7 @@
 
 Skills: React Js / JS / Html / Cascading Style Sheets (CSS) / CSS Pre-Processors: SASS, LESS / JQUERY / C# / LUA / NodeJS / Mysql / Mariadb / AWS
 
-- 🔭 I’m currently working on https://www.mecellem.com 
+- 🔭 I’m currently working on https://www.mecellem.com and https://auraroleplay.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gunsela92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gunsel-akkemik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gunselakkemik/)  
