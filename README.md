@@ -109,6 +109,7 @@ Skills
 </div>
 
 <div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunsela92)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gunsela92&show_icons=true&count_private=true)
