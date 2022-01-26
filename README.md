@@ -9,10 +9,12 @@ About Me
 
 - 🔭 I’m currently working on https://www.misli.com and https://auraroleplay.com
 
+<div align="center">
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gunsela92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gunsel-akkemik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gunselakkemik/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gunsela92)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 <h2 align="center"> 
 Skills 
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px alt="skills"> 
