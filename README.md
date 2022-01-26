@@ -106,19 +106,30 @@ Skills
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
 </div>
+<hr/>
 </div>
 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunsela92)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gunsela92&show_icons=true&count_private=true)
+
+<hr/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gunsela92)
 
+<hr/>
+
 ![GitHub metrics](https://metrics.lecoq.io/gunsela92)
 
+<hr/>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gunsela92)
+
+<hr/>
 
 ![Profile views](https://gpvc.arturio.dev/gunsela92)
 </div> 
