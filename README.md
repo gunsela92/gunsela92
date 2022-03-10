@@ -14,6 +14,8 @@ Some of my freelance projects:
     <a href="http://next-crypto.herokuapp.com/">Next js - Crypto and Currency App with News based on turkey</a>
 </div>
 
+<hr/>
+
 <div align="center">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gunsela92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gunsel-akkemik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gunselakkemik/)
