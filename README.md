@@ -11,6 +11,7 @@ About Me
 
 <div>
 Some of my freelance projects:
+    <hr/>
     <a href="http://next-crypto.herokuapp.com/">Next js - Crypto and Currency App with News based on turkey</a>
     <hr/>
     <a href="https://corona-stats.herokuapp.com">React JS - Covid-19 World Stats</a>
