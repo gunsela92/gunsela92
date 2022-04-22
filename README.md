@@ -14,6 +14,8 @@ Some of my freelance projects:
     <a href="http://next-crypto.herokuapp.com/">Next js - Crypto and Currency App with News based on turkey</a>
     <hr/>
     <a href="https://corona-stats.herokuapp.com">React JS - Covid-19 World Stats</a>
+    <hr/>
+    <a href="https://shopping-app-v1.herokuapp.com">React, React & Redux - E-Commerce App</a>
 </div>
 
 <hr/>
