@@ -2,6 +2,8 @@
 
 #### A software developer.
 
+![](https://komarev.com/ghpvc/?username=gunsela92)
+
 <h2>
 About Me
 </h2>
