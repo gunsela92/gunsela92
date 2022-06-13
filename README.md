@@ -30,7 +30,7 @@ Some of my freelance projects:
 </div>
 <h2 align="center"> 
 Skills 
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px alt="skills"> 
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px alt="skills"> 
 </h2>
     <div align="left">
     <div align="center">
