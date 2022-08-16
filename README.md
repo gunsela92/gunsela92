@@ -8,7 +8,7 @@
 About Me
 </h2>
 
-- 🔭 I’m currently working on https://www.misli.az
+- 🔭 I’m currently working on https://www.n11.com
 
 <div>
 Some of my freelance projects:
