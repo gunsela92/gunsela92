@@ -8,10 +8,14 @@
 About Me
 </h2>
 
+- Creator of [beanvy.com](https://development.beanvy.com) (Turkey restaurants App)
+
 - 🔭 I’m currently working on https://www.n11.com
 
 <div>
 Some of my freelance projects:
+    <hr />
+    <a href="https://development.beanvy.com">Next JS - Turkey Restaurants App</a>
     <hr/>
     <a href="http://next-crypto.herokuapp.com/">Next js - Crypto and Currency App with News based on turkey</a>
     <hr/>
