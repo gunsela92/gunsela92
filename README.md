@@ -1,7 +1,3 @@
-### Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px>, I'm Günsel Akkemik
-
-#### A Frontend Developer.
-
 ![](https://komarev.com/ghpvc/?username=gunsela92)
 
 <h2>
