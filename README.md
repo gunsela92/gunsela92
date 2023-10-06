@@ -6,7 +6,7 @@ About Me
 
 - Creator of [beanvy.com](https://development.beanvy.com) (Turkey restaurants App)
 
-- 🔭 I’m currently working on https:/propertyfinder.ae
+- 🔭 I’m currently working on [Property Finder](https:/propertyfinder.ae)
 
 <div>
 Some of my freelance projects:
