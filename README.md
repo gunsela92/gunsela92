@@ -6,7 +6,7 @@ About Me
 
 - Creator of [beanvy.com](https://development.beanvy.com) (Turkey restaurants App)
 
-- 🔭 I’m currently working on [Property Finder](https:/propertyfinder.ae)
+- 🔭 I’m currently working on [Peek&Cloppenburg](https:/peek-cloppenburg.de)
 
 <div>
 Some of my freelance projects:
@@ -126,23 +126,6 @@ Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunsela92)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gunsela92&show_icons=true&count_private=true)
-
-<hr/>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gunsela92)
-
-<hr/>
-
-![GitHub metrics](https://metrics.lecoq.io/gunsela92)
-
-<hr/>
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gunsela92)
 
-<hr/>
-
-![Profile views](https://gpvc.arturio.dev/gunsela92)
 </div> 
